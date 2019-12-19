@@ -48,8 +48,14 @@ https://github.com/AlessandroZ/LaZagne
 SNMP暴力破解：  
 https://github.com/SECFORCE/SNMP-Brute  
 
-## Fuzz
+## Web
+HTTP暴力破解，撞库攻击脚本：  
+https://github.com/lijiejie/htpwdScan  
 
+
+## Fuzz
+Web应用程序模糊器：  
+https://github.com/xmendez/wfuzz  
 
 
 
