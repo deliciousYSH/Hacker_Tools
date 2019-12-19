@@ -48,7 +48,7 @@ https://github.com/AlessandroZ/LaZagne
 SNMP暴力破解：  
 https://github.com/SECFORCE/SNMP-Brute  
 
-## Web
+## Web渗透
 HTTP暴力破解，撞库攻击脚本：  
 https://github.com/lijiejie/htpwdScan  
 
