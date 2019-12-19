@@ -4,6 +4,8 @@
 ## 扫描器
 Nmap端口扫描器：  
 https://github.com/nmap/nmap  
+被动式注入检测工具：
+https://github.com/sea-god/GourdScan  
 高质量扫描Linux / FreeBSD Server中的任何漏洞：  
 https://github.com/future-architect/vuls  
 子域名扫描器：  
@@ -23,6 +25,32 @@ https://github.com/EnableSecurity/wafw00f
 https://github.com/lijiejie/BBScan  
 基于SQLMAP的主动和被动SQL注入的漏洞扫描工具： 
 https://github.com/fengxuangit/Fox-scan/  
+
+## 信息搜集工具
+社工收集工具：  
+https://github.com/n0tr00t/Sreg  
+信息扫描工具：  
+https://github.com/darryllane/Bluto  
+本地网络扫描仪：  
+https://github.com/sowish/LNScan  
+通过RDP扫描可访问性工具后门：  
+https://github.com/linuz/Sticky-Keys-Slayer  
+网络基础设施渗透测试工具：  
+https://github.com/SECFORCE/sparta  
+GitHub信息收集：  
+https://github.com/metac0rtex/GitHarvester  
+
+## 密码破解
+密码破解工具（开膛手Johnny）:  
+https://github.com/shinnok/johnny  
+获取存储在本地计算机上大量的密码：  
+https://github.com/AlessandroZ/LaZagne  
+SNMP暴力破解：  
+https://github.com/SECFORCE/SNMP-Brute  
+
+## Fuzz
+
+
 
 
 ## 漏洞及渗透练习平台
