@@ -48,9 +48,14 @@ https://github.com/AlessandroZ/LaZagne
 SNMP暴力破解：  
 https://github.com/SECFORCE/SNMP-Brute  
 
-## Web渗透
+## Web渗透（禁止用作违法）
 HTTP暴力破解，撞库攻击脚本：  
 https://github.com/lijiejie/htpwdScan  
+webshell：  
+https://github.com/tennc/webshell  
+免杀webshell无限生成工具：  
+https://github.com/yzddmr6/webshell-venom  
+
 
 
 ## Fuzz
