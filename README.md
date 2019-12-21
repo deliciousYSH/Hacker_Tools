@@ -58,6 +58,8 @@ https://github.com/tennc/webshell
 https://github.com/yzddmr6/webshell-venom  
 渗透工具合集：  
 https://github.com/rootphantomer/hack_tools_for_me  
+XSSOR-方便XSS与CSRF的工具：  
+https://github.com/evilcos/xssor2  
 
 
 
