@@ -60,6 +60,8 @@ https://github.com/yzddmr6/webshell-venom
 https://github.com/rootphantomer/hack_tools_for_me  
 XSSOR-方便XSS与CSRF的工具：  
 https://github.com/evilcos/xssor2  
+w3af-Web应用程序攻击和审核框架：  
+https://github.com/andresriancho/w3af  
 
 
 
