@@ -62,12 +62,14 @@ XSSOR-方便XSS与CSRF的工具：
 https://github.com/evilcos/xssor2  
 w3af-Web应用程序攻击和审核框架：  
 https://github.com/andresriancho/w3af  
-
+渗透测试包：  
+https://github.com/leonteale/pentestpackage
 
 
 ## Fuzz
 Web应用程序模糊器：  
 https://github.com/xmendez/wfuzz  
+
 
 
 
