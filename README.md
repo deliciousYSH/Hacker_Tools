@@ -66,7 +66,8 @@ https://github.com/andresriancho/w3af
 https://github.com/leonteale/pentestpackage  
 网络路径扫描仪：  
 https://github.com/maurosoria/dirsearch  
-
+代码注入检测工具：
+https://github.com/epinna/tplmap
 
 
 ## Fuzz
