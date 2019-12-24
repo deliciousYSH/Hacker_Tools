@@ -63,7 +63,10 @@ https://github.com/evilcos/xssor2
 w3af-Web应用程序攻击和审核框架：  
 https://github.com/andresriancho/w3af  
 渗透测试包：  
-https://github.com/leonteale/pentestpackage
+https://github.com/leonteale/pentestpackage  
+网络路径扫描仪：  
+https://github.com/maurosoria/dirsearch  
+
 
 
 ## Fuzz
