@@ -68,6 +68,24 @@ https://github.com/leonteale/pentestpackage
 https://github.com/maurosoria/dirsearch  
 代码注入检测工具：
 https://github.com/epinna/tplmap
+hackUtils：  
+https://github.com/brianwrf/hackUtils  
+Nikto Web服务器扫描仪：  
+https://github.com/sullo/nikto  
+自动化的多合一OS命令注入和利用工具：  
+https://github.com/commixproject/commix  
+sslscan测试：  
+https://github.com/rbsec/sslscan  
+Windows安全工具套件：  
+https://github.com/codejanus/ToolSuite  
+Apache实时日志分析器系统：  
+https://github.com/mthbernardes/ARTLAS  
+检测网络入侵的特征，恶意蜘蛛（Malspider）：  
+https://github.com/ciscocsirt/malspider  
+下一代网络扫描仪WhatWeb：  
+https://github.com/urbanadventurer/whatweb  
+WPScan，WordPress漏洞扫描程序：  
+https://github.com/wpscanteam/wpscan  
 
 
 ## Fuzz
