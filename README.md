@@ -86,6 +86,12 @@ https://github.com/ciscocsirt/malspider
 https://github.com/urbanadventurer/whatweb  
 WPScan，WordPress漏洞扫描程序：  
 https://github.com/wpscanteam/wpscan  
+【sqlmap】:  
+https://github.com/sqlmapproject/sqlmap  
+SQLi-Hunter(HTTP代理服务器和一个SQLMAP API包装器):  
+https://github.com/zt2/sqli-hunter  
+中国菜刀：  
+https://github.com/Chora10/Cknife  
 
 
 ## Fuzz
